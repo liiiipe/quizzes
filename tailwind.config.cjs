@@ -11,7 +11,8 @@ module.exports = {
       },
       colors: {
         blue: "#1fb6ff",
-        purple: "#7e5bef",
+        purple: "#805EE7",
+        "lighter-purple": "#9E63F5",
         pink: "#ff49db",
         orange: "#ff7849",
         green: "#13ce66",
@@ -22,6 +23,10 @@ module.exports = {
         white: "#ffffff",
         secondary: "rgb(20 184 166)",
         "secondary-hover": "#76D0E3",
+        "dark": "#001A75",
+        "secondary-color": "#19D2DE",
+        "tertiary-color": " #1B92DE",
+        "white-color": "#FEFDFB"
       },
       fontFamily: {
         sans: ["Graphik", "sans-serif"],
